@@ -1,0 +1,18 @@
+div {
+    display: flex;
+    flex-direction: row;
+}
+
+#art1, #art2 {
+    flex-basis: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+
+#art1 {
+    border: 1px solid red;
+}
+
+#art2 {
+    border: 1px solid blue;
+}
